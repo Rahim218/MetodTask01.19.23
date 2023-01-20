@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\bin\Debug\netcoreapp3.1\MetodTask01.19.23.exe
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\bin\Debug\netcoreapp3.1\MetodTask01.19.23.deps.json
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\bin\Debug\netcoreapp3.1\MetodTask01.19.23.runtimeconfig.json
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\bin\Debug\netcoreapp3.1\MetodTask01.19.23.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\bin\Debug\netcoreapp3.1\MetodTask01.19.23.dll
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\bin\Debug\netcoreapp3.1\MetodTask01.19.23.pdb
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\obj\Debug\netcoreapp3.1\MetodTask01.19.23.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\obj\Debug\netcoreapp3.1\MetodTask01.19.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\obj\Debug\netcoreapp3.1\MetodTask01.19.23.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\obj\Debug\netcoreapp3.1\MetodTask01.19.23.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\obj\Debug\netcoreapp3.1\MetodTask01.19.23.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\obj\Debug\netcoreapp3.1\MetodTask01.19.23.dll
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\obj\Debug\netcoreapp3.1\MetodTask01.19.23.pdb
+C:\Users\ASUS\source\repos\MetodTask01.19.23\MetodTask01.19.23\obj\Debug\netcoreapp3.1\MetodTask01.19.23.genruntimeconfig.cache

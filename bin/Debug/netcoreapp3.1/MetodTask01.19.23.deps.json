@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MetodTask01.19.23/1.0.0": {
+        "runtime": {
+          "MetodTask01.19.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetodTask01.19.23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
